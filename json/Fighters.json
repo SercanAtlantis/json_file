@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Lee",
+        "health": 100,
+        "damage": 20,
+        "human": true,
+        "weapons": []
+    },
+    {
+        "name": "Han",
+        "health": 100,
+        "damage": 15,
+        "human": true,
+        "Weapons": ["samurai sword", "nunchuck"]
+    },
+    {
+        "name": "Drogon",
+        "health": 100,
+        "damage": 27,
+        "human": false,
+        "weapons": ["fire", "wings"]
+    }
+    
+]
